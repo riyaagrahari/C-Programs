@@ -7,8 +7,8 @@ The following repository is created to provide all the possible questions and th
   - **(Fedora/RHEL)**
   - sudo yum install gcc
 - Windows
-  - Download Dev-cpp from [here]()
-  - Download Turbo C from [here]()
+  - Download Dev-cpp from [here](https://www.developerinsider.in/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/)
+  - Download Turbo C from [here](https://sourceforge.net/projects/orwelldevcpp/)
 - Mac
   - xcode-select --install gcc
 
