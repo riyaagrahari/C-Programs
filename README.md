@@ -12,6 +12,9 @@ The following repository is created to provide all the possible questions and th
 - Mac
   - xcode-select --install gcc
 
+# Questions
+A word file is there contains all the questions(questions.docx)
+
 # Contribution
 Anybody is welcome to collaborate in this project. Feel free to push any pull request (even if you are new to coding).
 
